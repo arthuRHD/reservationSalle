@@ -1,0 +1,18 @@
+{
+    "db": [{
+        "host": "localhost",
+        "port": 3306,
+        "dbname": "bddreserv"
+    }],
+    "ldap": [{
+        "base_dn": "o=My Company, c=US",
+        "host": "10.1.0.5",
+        "port": "897"
+    }],
+    "rights": [{
+        "RP": "t.cramoisan",
+        "Accueil": "accueil.central",
+        "Disposition": "f.baviere",
+        "Database": "j.raharison"
+    }]
+}
